@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.button{
+  width: 25%;
+  height:16.8vh;
+  background-color:#E0E0E0;
+  font-size:40px;
+  }
+
+#zero{
+  width: 50%;
+}
+#plus, #minus, #multiply, #divide, #equal{
+  background-color:#F5923F;
+  color:white;
+}
